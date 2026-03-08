@@ -1,6 +1,6 @@
 {
-  "prompt": "A dramatic mountain landscape at dusk, seen from the side, showing rugged peaks and deep valleys. A glowing golden trail of light traces a path from a high peak on the left, bouncing and zigzagging downward through the valleys, oscillating and converging toward the lowest valley floor on the right where a soft blue light rests.",
-  "model": "Custom Python/Pillow/NumPy generative art (procedural terrain + gradient descent simulation)",
+  "prompt": "Mountain landscape at dusk, a glowing trail descends from peak to valley, oscillating before settling at the lowest point.",
+  "model": "Custom Python generative art",
   "concept": "gradient descent",
-  "metaphor": "A glowing stone rolls downhill, overshoots, oscillates, and settles in the deepest valley, mirroring iterative loss minimization."
+  "metaphor": "Stone rolls downhill, overshoots, oscillates, and rests in the deepest valley — each step follows the local slope."
 }
