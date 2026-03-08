@@ -1,6 +1,6 @@
 {
-  "prompt": "A dramatic mountain landscape at dusk, seen from the side, showing rugged peaks and deep valleys. A glowing golden trail of light traces a path from a high peak on the left, bouncing and zigzagging downward through the valleys, oscillating and converging toward the lowest valley floor on the right where a soft blue light rests. The trail starts bright yellow, shifts to orange mid-journey, and ends in cool blue at the final resting point. No text, no labels, no diagrams — purely a physical landscape with a luminous descent path.",
+  "prompt": "A dramatic mountain landscape at dusk, seen from the side, showing rugged peaks and deep valleys. A glowing golden trail of light traces a path from a high peak on the left, bouncing and zigzagging downward through the valleys, oscillating and converging toward the lowest valley floor on the right where a soft blue light rests.",
   "model": "Custom Python/Pillow/NumPy generative art (procedural terrain + gradient descent simulation)",
   "concept": "gradient descent",
-  "metaphor": "A stone rolls downhill, overshoots the valley, oscillates, and settles at the lowest point — each bounce mirrors one iterative parameter update."
+  "metaphor": "A glowing stone rolls downhill, overshoots, oscillates, and settles in the deepest valley, mirroring iterative loss minimization."
 }
